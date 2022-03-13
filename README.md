@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋 I'm [Rodrigo Costa](https://rodrigo-costa.herokuapp.com/)
+This is my developer's journey
 <!--
 **RodriDesmond/RodriDesmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Github Stats
+[![RodriDesmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriDesmond&show_icons=true&theme=radical)](https://github.com/RodriDesmond/github-readme-stats)
 
-[![RodriDesmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriDesmond)](https://github.com/RodriDesmond/github-readme-stats)
+### Contact
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/rodridesmond/)
+[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/_roco92/)
