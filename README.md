@@ -2,11 +2,11 @@
 
 #### GitHub stats
 
-[![RodriDesmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriDesmond&show_icons=true&theme=dracula)](https://github.com/RodriDesmond/github-readme-stats)
+[![RodriDesmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriDesmond&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Top langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriDesmond&layout=compact)](https://github.com/RodriDesmond/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriDesmond&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RodriDesmond/RodriDesmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
