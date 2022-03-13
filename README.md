@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Github Stats
-[![RodriDesmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriDesmond&show_icons=true&theme=radical)](https://github.com/RodriDesmond/github-readme-stats)
+[![RodriDesmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriDesmond&show_icons=true&theme=dracula)](https://github.com/RodriDesmond/github-readme-stats)
 
 ### Contact
 
