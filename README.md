@@ -1,5 +1,13 @@
-# Hi there 👋 I'm [Rodrigo Costa](https://rodrigo-costa.herokuapp.com/)
-This is my developer's journey
+<h3 align="center"><samp>Hi there 👋 I'm Rodrigo Costa</samp></h3>
+
+#### GitHub stats
+
+[![RodriDesmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriDesmond&show_icons=true&theme=dracula)](https://github.com/RodriDesmond/github-readme-stats)
+
+#### Top langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriDesmond&layout=compact)](https://github.com/RodriDesmond/github-readme-stats)
+
 <!--
 **RodriDesmond/RodriDesmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Github Stats
-[![RodriDesmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriDesmond&show_icons=true&theme=dracula)](https://github.com/RodriDesmond/github-readme-stats)
 
-### Contact
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/rodridesmond/)
-[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/_roco92/)
+<h6 align="center"><samp>
+  Contact me!</br>
+  <a href= "https://www.linkedin.com/in/rodridesmond/"><img src="https://img.icons8.com/nolan/32/linkedin.png"/></a>
+  <a href= "https://www.instagram.com/_roco92/"><img src="https://img.icons8.com/nolan/32/instagram-new.png"/></a>
+</samp></h6>
